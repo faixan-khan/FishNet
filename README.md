@@ -19,9 +19,10 @@ To download the required files, follow these steps:
 
 
 1. **Image Files:**
+   All the images can be found [here.](https://drive.google.com/file/d/1mqLoap9QIVGYaPJ7T_KSBfLxJOg2yFY3/view?usp=sharing)
 
-2. **Detection Annotation Files:**
+3. **Detection Annotation Files:**
    Download bbox.zip file for detection annotations. The annotations are in the [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset format.
-   Please refer to the [tutorail](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
+   Please refer to the [tutorial](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
 2. **Classification and Traits Annotation Files:**
 
