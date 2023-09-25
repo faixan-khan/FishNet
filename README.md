@@ -1,6 +1,6 @@
 # FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Traits Prediction(ICCV 2023)
 
-[Faizan Farooq Khan](https://faixan-khan.github.io/), [Xiang Li](https://xiangli.ac.cn/), [Andrew Temple,](https://reefecology.kaust.edu.sa/people/details/andrew-temple),  and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). 
+[Faizan Farooq Khan](https://faixan-khan.github.io/), [Xiang Li](https://xiangli.ac.cn/), [Andrew Temple](https://reefecology.kaust.edu.sa/people/details/andrew-temple),  and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). 
 
 
 
