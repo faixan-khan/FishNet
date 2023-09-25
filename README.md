@@ -10,3 +10,18 @@
 ## Introduction
 
 We present FishNet, a comprehensive benchmark for large-scale aquatic species recognition, detection, and functional trait identification. Our benchmark dataset is based on an aquatic biological taxonomy, consisting of 8 taxonomic classes, 83 orders, 463 families, 3,826 genera, 17,357 species, and 94,532 images. The dataset also includes bounding box annotations for fish detection. Additionally, the dataset encompasses 22 traits, grouped into three categories: habitat, ecological rule, and nutritional value. These traits facilitate the identification of the ecological roles of aquatic species and their interactions with other species.
+
+
+## Dataset Download
+
+To download the required files, follow these steps:
+
+
+
+1. **Image Files:**
+
+2. **Detection Annotation Files:**
+   Download bbox.zip file for detection annotations. The annotations are in the [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset format.
+   Please refer to the [tutorail](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
+2. **Classification and Traits Annotation Files:**
+
