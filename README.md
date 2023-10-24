@@ -25,5 +25,5 @@ To download the required files, follow these steps:
    Download bbox.zip file for detection annotations. The annotations are in the [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset format.
    Please refer to the [tutorial](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
 2. **Classification and Traits Annotation Files:**
-   [TODO]
+   The files can be found in the anns folder.
 
