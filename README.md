@@ -27,6 +27,8 @@ To download the required files, follow these steps:
    Download [bbox.zip] file for detection annotations. 
    We use mmdetction library for fish detection. Please refer to the [tutorial](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
 
+## Installation
+Required library:
 
 ## Fish Classification and Functional Traits Prediction
 
