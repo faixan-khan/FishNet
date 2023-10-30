@@ -28,7 +28,7 @@ To download the required files, follow these steps:
    We use mmdetction library for fish detection. Please refer to the [tutorial](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
 
 ## Installation
-Required library:
+```conda env create -f env.yaml```
 
 ## Fish Classification and Functional Traits Prediction
 
