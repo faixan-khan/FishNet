@@ -57,4 +57,20 @@ MultiCls: Functional traits classification
 For other parameters, please check ```main.py``` file.
 
 ## Fish Detection
-We use mmdetction library for fish detection. Please refer to the [tutorial](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
+We use [mmdetction](https://github.com/open-mmlab/mmdetection) library for fish detection. Please refer to the [tutorial](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
+
+## Acknowledgement
++ [timm](https://timm.fast.ai/). A popular deep-learning library.
++ [mmdetction](https://github.com/open-mmlab/mmdetection). MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project.
+
+If you're using FishNet in your research or applications, please cite using this BibTeX:
+
+```bibtex
+@inproceedings{khan2023fishnet,
+  title={FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Trait Prediction},
+  author={Khan, Faizan Farooq and Li, Xiang and Temple, Andrew J and Elhoseiny, Mohamed},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={20496--20506},
+  year={2023}
+}
+```
