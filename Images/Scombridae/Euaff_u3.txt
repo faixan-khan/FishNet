@@ -1,0 +1,9 @@
+Scombridae 57 48 194 127 
+Scombridae 178 38 496 196 
+Scombridae 208 188 553 354 
+Scombridae 513 228 640 307 
+Scombridae 5 120 86 181 
+Scombridae 11 288 154 343 
+Scombridae 77 316 262 368 
+Scombridae 232 273 378 338 
+Scombridae 461 157 640 255 

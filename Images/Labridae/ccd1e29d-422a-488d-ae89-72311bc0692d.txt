@@ -1,0 +1,6 @@
+Labridae 108 136 185 212 
+Labridae 213 249 307 296 
+Labridae 411 26 483 116 
+Labridae 379 196 428 229 
+Labridae 141 258 213 320 
+Labridae 276 166 322 206 

@@ -1,0 +1,6 @@
+Cyprinodontidae 42 84 88 132 
+Cyprinodontidae 142 148 194 202 
+Cyprinodontidae 394 16 416 40 
+Cyprinodontidae 362 82 414 116 
+Cyprinodontidae 326 206 376 254 
+Cyprinodontidae 346 244 414 280 

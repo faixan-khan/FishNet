@@ -1,0 +1,9 @@
+Pomatomidae 120 115 183 145 
+Pomatomidae 201 145 285 192 
+Pomatomidae 231 83 291 118 
+Pomatomidae 279 118 340 159 
+Pomatomidae 79 163 152 197 
+Pomatomidae 87 200 151 252 
+Pomatomidae 347 168 426 208 
+Pomatomidae 395 97 470 144 
+Pomatomidae 2 136 40 191 

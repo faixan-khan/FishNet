@@ -1,0 +1,16 @@
+Triakidae 24 72 65 310 
+Triakidae 65 78 95 312 
+Triakidae 100 74 139 304 
+Triakidae 139 74 171 303 
+Triakidae 170 69 210 304 
+Triakidae 208 68 256 304 
+Triakidae 248 73 295 310 
+Triakidae 289 136 313 278 
+Triakidae 349 122 379 304 
+Triakidae 371 94 405 319 
+Triakidae 399 100 436 316 
+Triakidae 437 88 470 319 
+Triakidae 470 93 504 332 
+Triakidae 501 92 549 325 
+Triakidae 550 90 584 318 
+Triakidae 583 88 628 321 

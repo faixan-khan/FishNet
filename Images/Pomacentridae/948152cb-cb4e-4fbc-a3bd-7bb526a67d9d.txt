@@ -1,0 +1,8 @@
+Pomacentridae 125 0 197 84 
+Pomacentridae 176 99 265 214 
+Pomacentridae 317 132 427 190 
+Pomacentridae 409 180 470 276 
+Pomacentridae 214 195 321 258 
+Pomacentridae 57 101 144 179 
+Pomacentridae 0 291 96 347 
+Pomacentridae 126 288 217 334 

@@ -1,0 +1,17 @@
+Embiotocidae 278 9 377 75 
+Embiotocidae 479 4 640 70 
+Embiotocidae 520 35 640 109 
+Embiotocidae 551 118 640 154 
+Embiotocidae 589 162 640 286 
+Embiotocidae 422 325 588 426 
+Embiotocidae 289 327 466 404 
+Embiotocidae 148 371 355 418 
+Embiotocidae 0 245 105 369 
+Embiotocidae 0 323 74 464 
+Embiotocidae 78 29 178 96 
+Embiotocidae 163 51 320 112 
+Embiotocidae 301 89 475 165 
+Embiotocidae 197 160 386 255 
+Embiotocidae 447 181 572 297 
+Embiotocidae 428 107 519 160 
+Embiotocidae 330 147 486 226 

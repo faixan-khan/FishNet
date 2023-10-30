@@ -1,0 +1,5 @@
+Catostomidae 181 181 231 376 
+Catostomidae 87 93 173 246 
+Catostomidae 89 332 168 454 
+Catostomidae 305 213 390 358 
+Catostomidae 250 22 309 204 

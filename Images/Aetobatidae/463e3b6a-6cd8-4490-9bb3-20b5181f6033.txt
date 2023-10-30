@@ -1,0 +1,6 @@
+Aetobatidae 12 36 122 198 
+Aetobatidae 245 54 339 167 
+Aetobatidae 287 150 348 212 
+Aetobatidae 368 70 500 158 
+Aetobatidae 152 236 206 327 
+Aetobatidae 242 208 343 301 

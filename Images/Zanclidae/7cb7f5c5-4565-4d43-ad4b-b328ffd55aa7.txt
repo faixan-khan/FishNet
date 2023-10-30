@@ -1,0 +1,7 @@
+Zanclidae 117 249 170 299 
+Zanclidae 170 192 236 265 
+Zanclidae 246 256 321 315 
+Zanclidae 346 206 429 252 
+Zanclidae 271 124 362 165 
+Zanclidae 214 144 268 194 
+Zanclidae 230 204 287 249 

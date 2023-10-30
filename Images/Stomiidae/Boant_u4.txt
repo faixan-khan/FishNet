@@ -1,0 +1,4 @@
+Stomiidae 68 20 541 145 
+Stomiidae 67 149 587 219 
+Stomiidae 112 226 639 299 
+Stomiidae 213 337 640 432 

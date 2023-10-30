@@ -1,0 +1,5 @@
+Mugilidae 105 167 227 296 
+Mugilidae 158 128 399 201 
+Mugilidae 65 103 235 173 
+Mugilidae 206 51 459 121 
+Mugilidae 333 63 482 163 

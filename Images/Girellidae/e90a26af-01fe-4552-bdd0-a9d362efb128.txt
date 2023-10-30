@@ -1,0 +1,14 @@
+Girellidae 399 85 463 125 
+Girellidae 408 117 487 167 
+Girellidae 222 63 301 131 
+Girellidae 119 112 203 168 
+Girellidae 29 218 101 256 
+Girellidae 104 196 166 260 
+Girellidae 215 203 277 257 
+Girellidae 439 203 480 257 
+Girellidae 5 42 39 106 
+Girellidae 53 28 110 91 
+Girellidae 27 92 93 138 
+Girellidae 143 2 231 38 
+Girellidae 317 204 430 272 
+Girellidae 309 57 404 174 

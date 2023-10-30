@@ -1,0 +1,6 @@
+Anarhichadidae 505 246 640 360 
+Anarhichadidae 307 252 411 363 
+Anarhichadidae 101 145 285 276 
+Anarhichadidae 37 227 275 364 
+Anarhichadidae 228 207 327 340 
+Anarhichadidae 456 183 638 268 

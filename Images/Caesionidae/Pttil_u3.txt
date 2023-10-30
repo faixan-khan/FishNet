@@ -1,0 +1,10 @@
+Caesionidae 179 28 334 118 
+Caesionidae 340 12 520 105 
+Caesionidae 83 202 266 252 
+Caesionidae 194 158 381 217 
+Caesionidae 381 115 614 193 
+Caesionidae 412 196 623 252 
+Caesionidae 14 323 135 417 
+Caesionidae 151 298 325 439 
+Caesionidae 576 258 640 333 
+Caesionidae 520 3 592 43 

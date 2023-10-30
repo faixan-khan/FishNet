@@ -1,0 +1,9 @@
+Fundulidae 100 177 211 226 
+Fundulidae 112 231 199 290 
+Fundulidae 246 126 310 172 
+Fundulidae 226 164 397 197 
+Fundulidae 384 160 500 229 
+Fundulidae 232 207 374 248 
+Fundulidae 361 194 442 237 
+Fundulidae 347 230 479 286 
+Fundulidae 231 249 380 346 

@@ -1,0 +1,7 @@
+Serrasalmidae 192 47 384 150 
+Serrasalmidae 32 161 280 279 
+Serrasalmidae 285 214 483 355 
+Serrasalmidae 444 96 572 186 
+Serrasalmidae 390 156 549 301 
+Serrasalmidae 262 340 456 443 
+Serrasalmidae 380 94 410 97 

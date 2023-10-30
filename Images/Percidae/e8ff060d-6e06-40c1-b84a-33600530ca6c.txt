@@ -1,0 +1,6 @@
+Percidae 237 173 397 262 
+Percidae 173 157 268 217 
+Percidae 22 117 109 172 
+Percidae 138 120 222 164 
+Percidae 191 56 283 98 
+Percidae 323 56 432 117 

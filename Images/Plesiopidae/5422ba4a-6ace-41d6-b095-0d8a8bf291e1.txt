@@ -1,0 +1,8 @@
+Plesiopidae 116 16 319 90 
+Plesiopidae 22 100 281 196 
+Plesiopidae 6 163 170 325 
+Plesiopidae 110 243 267 320 
+Plesiopidae 94 283 272 375 
+Plesiopidae 314 325 429 375 
+Plesiopidae 353 227 500 285 
+Plesiopidae 439 83 500 141 

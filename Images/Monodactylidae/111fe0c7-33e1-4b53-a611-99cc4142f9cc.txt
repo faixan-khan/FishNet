@@ -1,0 +1,9 @@
+Monodactylidae 397 103 433 151 
+Monodactylidae 251 70 281 104 
+Monodactylidae 275 209 337 257 
+Monodactylidae 286 267 351 314 
+Monodactylidae 35 203 128 250 
+Monodactylidae 45 104 89 147 
+Monodactylidae 160 97 184 131 
+Monodactylidae 162 6 188 47 
+Monodactylidae 65 89 107 121 

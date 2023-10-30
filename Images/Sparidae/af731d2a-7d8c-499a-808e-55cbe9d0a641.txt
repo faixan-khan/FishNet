@@ -1,0 +1,8 @@
+Sparidae 209 174 349 240 
+Sparidae 89 88 184 134 
+Sparidae 97 193 200 230 
+Sparidae 216 18 304 50 
+Sparidae 408 65 500 105 
+Sparidae 410 130 487 176 
+Sparidae 433 244 500 285 
+Sparidae 427 327 500 375 

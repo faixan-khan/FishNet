@@ -1,0 +1,7 @@
+Characidae 252 185 363 235 
+Characidae 17 65 146 100 
+Characidae 48 112 222 174 
+Characidae 96 156 294 219 
+Characidae 144 59 234 94 
+Characidae 118 90 240 164 
+Characidae 215 96 363 151 

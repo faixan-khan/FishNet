@@ -1,0 +1,4 @@
+Ictaluridae 24 93 110 151 
+Ictaluridae 9 146 96 184 
+Ictaluridae 130 27 370 141 
+Ictaluridae 20 189 476 337 

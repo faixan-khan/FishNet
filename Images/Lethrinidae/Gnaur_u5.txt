@@ -1,0 +1,6 @@
+Lethrinidae 112 75 548 196 
+Lethrinidae 207 228 595 320 
+Lethrinidae 14 136 200 356 
+Lethrinidae 234 351 600 419 
+Lethrinidae 6 4 289 105 
+Lethrinidae 397 5 639 157 

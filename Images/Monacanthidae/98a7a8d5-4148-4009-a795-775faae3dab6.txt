@@ -1,0 +1,4 @@
+Monacanthidae 121 24 375 255 
+Monacanthidae 51 73 264 266 
+Monacanthidae 173 278 386 373 
+Monacanthidae 364 177 474 320 

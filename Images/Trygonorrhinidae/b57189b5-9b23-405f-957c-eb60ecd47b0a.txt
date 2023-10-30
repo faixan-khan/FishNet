@@ -1,0 +1,7 @@
+Trygonorrhinidae 90 173 173 232 
+Trygonorrhinidae 50 175 131 222 
+Trygonorrhinidae 50 51 71 130 
+Trygonorrhinidae 10 11 85 46 
+Trygonorrhinidae 375 19 425 63 
+Trygonorrhinidae 479 100 500 122 
+Trygonorrhinidae 457 60 500 78 

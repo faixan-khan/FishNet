@@ -1,0 +1,13 @@
+Caproidae 207 179 314 262 
+Caproidae 351 11 476 84 
+Caproidae 546 76 640 152 
+Caproidae 223 92 313 174 
+Caproidae 53 32 177 117 
+Caproidae 1 119 98 206 
+Caproidae 151 137 208 226 
+Caproidae 287 314 359 373 
+Caproidae 352 314 468 378 
+Caproidae 379 272 458 317 
+Caproidae 463 179 556 232 
+Caproidae 393 111 472 182 
+Caproidae 587 184 640 283 

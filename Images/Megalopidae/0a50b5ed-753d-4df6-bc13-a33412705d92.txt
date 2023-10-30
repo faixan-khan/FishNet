@@ -1,0 +1,14 @@
+Megalopidae 77 191 125 263 
+Megalopidae 162 221 253 269 
+Megalopidae 153 148 232 194 
+Megalopidae 241 151 286 193 
+Megalopidae 245 193 315 271 
+Megalopidae 141 286 182 339 
+Megalopidae 168 327 255 349 
+Megalopidae 321 232 473 256 
+Megalopidae 407 117 500 181 
+Megalopidae 348 176 366 228 
+Megalopidae 322 132 358 192 
+Megalopidae 298 92 341 127 
+Megalopidae 260 62 322 131 
+Megalopidae 186 126 250 141 

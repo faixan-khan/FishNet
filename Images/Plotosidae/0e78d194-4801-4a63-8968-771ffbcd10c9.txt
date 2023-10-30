@@ -1,0 +1,16 @@
+Plotosidae 199 189 222 261 
+Plotosidae 212 122 231 181 
+Plotosidae 157 78 170 110 
+Plotosidae 264 240 286 289 
+Plotosidae 283 198 309 252 
+Plotosidae 175 128 208 191 
+Plotosidae 304 141 332 202 
+Plotosidae 320 63 367 94 
+Plotosidae 191 63 224 87 
+Plotosidae 244 115 283 149 
+Plotosidae 318 264 348 300 
+Plotosidae 226 283 271 312 
+Plotosidae 148 126 166 166 
+Plotosidae 237 138 272 189 
+Plotosidae 233 193 250 261 
+Plotosidae 289 261 314 297 

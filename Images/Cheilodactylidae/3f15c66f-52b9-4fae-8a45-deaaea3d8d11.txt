@@ -1,0 +1,9 @@
+Cheilodactylidae 266 112 421 183 
+Cheilodactylidae 197 108 231 122 
+Cheilodactylidae 159 83 192 104 
+Cheilodactylidae 172 87 201 101 
+Cheilodactylidae 140 144 174 172 
+Cheilodactylidae 54 144 172 220 
+Cheilodactylidae 135 201 301 255 
+Cheilodactylidae 113 35 121 64 
+Cheilodactylidae 84 43 109 82 

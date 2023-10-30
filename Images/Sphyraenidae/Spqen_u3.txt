@@ -1,0 +1,5 @@
+Sphyraenidae 154 27 589 94 
+Sphyraenidae 5 112 314 154 
+Sphyraenidae 221 164 640 259 
+Sphyraenidae 17 208 375 264 
+Sphyraenidae 52 287 464 345 

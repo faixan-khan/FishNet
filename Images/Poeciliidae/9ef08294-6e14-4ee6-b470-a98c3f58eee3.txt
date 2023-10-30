@@ -1,0 +1,11 @@
+Poeciliidae 16 11 73 85 
+Poeciliidae 81 43 131 88 
+Poeciliidae 6 103 72 161 
+Poeciliidae 81 98 166 148 
+Poeciliidae 107 158 147 222 
+Poeciliidae 94 226 179 284 
+Poeciliidae 199 186 238 241 
+Poeciliidae 220 144 276 180 
+Poeciliidae 294 75 352 128 
+Poeciliidae 332 207 385 287 
+Poeciliidae 459 85 500 123 

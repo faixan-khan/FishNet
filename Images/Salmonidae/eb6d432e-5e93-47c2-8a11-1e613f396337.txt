@@ -1,0 +1,7 @@
+Salmonidae 224 160 364 202 
+Salmonidae 126 221 163 311 
+Salmonidae 194 246 280 351 
+Salmonidae 30 103 115 155 
+Salmonidae 275 83 392 111 
+Salmonidae 256 35 348 61 
+Salmonidae 113 57 194 85 

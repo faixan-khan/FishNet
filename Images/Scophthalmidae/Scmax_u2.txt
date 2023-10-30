@@ -1,0 +1,5 @@
+Scophthalmidae 41 91 268 295 
+Scophthalmidae 152 219 426 365 
+Scophthalmidae 412 189 640 380 
+Scophthalmidae 243 80 449 254 
+Scophthalmidae 299 7 429 91 

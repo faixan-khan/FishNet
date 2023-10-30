@@ -1,0 +1,8 @@
+Orectolobidae 202 25 290 76 
+Orectolobidae 343 78 373 114 
+Orectolobidae 415 109 499 195 
+Orectolobidae 26 134 93 185 
+Orectolobidae 16 69 75 113 
+Orectolobidae 128 35 174 60 
+Orectolobidae 112 64 160 97 
+Orectolobidae 3 155 403 307 

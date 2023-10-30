@@ -1,0 +1,13 @@
+Scorpididae 106 6 208 76 
+Scorpididae 218 27 333 104 
+Scorpididae 359 54 437 119 
+Scorpididae 420 104 518 167 
+Scorpididae 546 35 640 102 
+Scorpididae 431 178 573 264 
+Scorpididae 304 169 417 236 
+Scorpididae 365 277 475 333 
+Scorpididae 136 283 218 350 
+Scorpididae 96 209 207 271 
+Scorpididae 71 92 201 190 
+Scorpididae 213 162 284 213 
+Scorpididae 227 111 315 163 

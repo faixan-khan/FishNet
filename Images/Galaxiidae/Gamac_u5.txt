@@ -1,0 +1,3 @@
+Galaxiidae 117 96 526 382 
+Galaxiidae 30 192 478 304 
+Galaxiidae 463 227 640 385 

@@ -1,0 +1,5 @@
+Labridae 183 91 211 168 
+Labridae 217 67 262 111 
+Labridae 205 80 251 118 
+Labridae 202 124 245 158 
+Labridae 211 105 251 131 

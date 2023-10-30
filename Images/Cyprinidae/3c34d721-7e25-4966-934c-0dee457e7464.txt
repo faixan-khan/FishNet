@@ -1,0 +1,4 @@
+Cyprinidae 67 205 113 262 
+Cyprinidae 132 216 178 273 
+Cyprinidae 200 234 250 286 
+Cyprinidae 170 300 240 348 

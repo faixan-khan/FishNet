@@ -1,0 +1,8 @@
+Apogonidae 31 79 412 212 
+Apogonidae 61 0 203 84 
+Apogonidae 150 0 219 30 
+Apogonidae 206 174 423 344 
+Apogonidae 31 194 138 301 
+Apogonidae 0 152 55 260 
+Apogonidae 155 306 365 471 
+Apogonidae 493 307 640 443 

@@ -1,0 +1,4 @@
+Anostomidae 167 149 428 210 
+Anostomidae 280 246 334 318 
+Anostomidae 346 269 400 323 
+Anostomidae 327 320 435 376 

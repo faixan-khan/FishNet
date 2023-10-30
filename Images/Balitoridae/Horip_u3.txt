@@ -1,0 +1,10 @@
+Balitoridae 479 28 589 319 
+Balitoridae 106 101 186 156 
+Balitoridae 0 59 68 156 
+Balitoridae 148 52 234 105 
+Balitoridae 285 28 409 71 
+Balitoridae 257 78 379 138 
+Balitoridae 171 198 254 344 
+Balitoridae 272 169 373 256 
+Balitoridae 11 208 154 251 
+Balitoridae 99 274 192 340 

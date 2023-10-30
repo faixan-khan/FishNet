@@ -1,0 +1,8 @@
+Anabantidae 130 141 396 225 
+Anabantidae 479 108 568 253 
+Anabantidae 217 309 549 405 
+Anabantidae 0 0 133 132 
+Anabantidae 0 205 216 294 
+Anabantidae 0 377 142 441 
+Anabantidae 121 0 278 37 
+Anabantidae 230 0 393 134 

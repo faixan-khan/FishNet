@@ -1,0 +1,4 @@
+Clupeidae 132 249 555 329 
+Clupeidae 184 300 569 370 
+Clupeidae 40 115 239 198 
+Clupeidae 220 107 609 230 

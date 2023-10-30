@@ -1,0 +1,6 @@
+Pempheridae 378 0 533 60 
+Pempheridae 407 206 640 316 
+Pempheridae 228 220 514 355 
+Pempheridae 355 60 593 226 
+Pempheridae 73 20 393 218 
+Pempheridae 38 206 192 298 

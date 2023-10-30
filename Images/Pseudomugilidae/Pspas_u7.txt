@@ -1,0 +1,5 @@
+Pseudomugilidae 214 232 509 291 
+Pseudomugilidae 419 167 591 210 
+Pseudomugilidae 448 65 606 117 
+Pseudomugilidae 183 96 420 150 
+Pseudomugilidae 11 136 240 195 

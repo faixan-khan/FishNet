@@ -1,0 +1,7 @@
+Odontaspididae 47 217 267 302 
+Odontaspididae 53 183 186 259 
+Odontaspididae 167 136 327 218 
+Odontaspididae 231 30 433 167 
+Odontaspididae 266 62 462 124 
+Odontaspididae 265 332 274 336 
+Odontaspididae 221 312 500 375 

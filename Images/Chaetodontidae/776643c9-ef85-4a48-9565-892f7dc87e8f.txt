@@ -1,0 +1,4 @@
+Chaetodontidae 253 113 293 163 
+Chaetodontidae 206 149 244 179 
+Chaetodontidae 198 206 240 240 
+Chaetodontidae 130 97 185 122 

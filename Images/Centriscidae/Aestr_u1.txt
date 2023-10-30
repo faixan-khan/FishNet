@@ -1,0 +1,6 @@
+Centriscidae 485 154 517 395 
+Centriscidae 412 186 463 428 
+Centriscidae 362 144 422 400 
+Centriscidae 242 21 322 251 
+Centriscidae 133 173 183 358 
+Centriscidae 57 48 115 395 

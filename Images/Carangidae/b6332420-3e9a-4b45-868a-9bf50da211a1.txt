@@ -1,0 +1,9 @@
+Carangidae 245 63 306 92 
+Carangidae 245 107 300 124 
+Carangidae 321 130 390 159 
+Carangidae 321 183 378 213 
+Carangidae 207 202 261 226 
+Carangidae 212 166 265 182 
+Carangidae 110 179 173 205 
+Carangidae 116 160 176 180 
+Carangidae 28 210 81 233 

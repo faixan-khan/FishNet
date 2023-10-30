@@ -1,0 +1,5 @@
+Sciaenidae 108 92 270 185 
+Sciaenidae 310 87 361 251 
+Sciaenidae 193 238 232 309 
+Sciaenidae 106 271 172 312 
+Sciaenidae 249 260 362 340 

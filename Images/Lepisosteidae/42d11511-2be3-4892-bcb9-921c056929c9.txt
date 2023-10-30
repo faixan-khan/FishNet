@@ -1,0 +1,5 @@
+Lepisosteidae 225 143 314 192 
+Lepisosteidae 141 138 225 162 
+Lepisosteidae 319 106 339 168 
+Lepisosteidae 280 105 356 130 
+Lepisosteidae 31 175 112 215 

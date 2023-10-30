@@ -1,0 +1,8 @@
+Tetraodontidae 115 142 332 220 
+Tetraodontidae 0 38 116 156 
+Tetraodontidae 43 184 214 307 
+Tetraodontidae 249 86 449 173 
+Tetraodontidae 413 179 500 325 
+Tetraodontidae 285 0 420 44 
+Tetraodontidae 151 0 260 61 
+Tetraodontidae 97 0 154 29 

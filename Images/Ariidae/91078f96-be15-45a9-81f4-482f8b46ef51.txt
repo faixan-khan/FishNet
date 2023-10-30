@@ -1,0 +1,8 @@
+Ariidae 80 304 158 347 
+Ariidae 164 288 245 338 
+Ariidae 185 185 245 226 
+Ariidae 207 237 360 329 
+Ariidae 161 93 199 147 
+Ariidae 218 126 308 177 
+Ariidae 332 207 396 247 
+Ariidae 351 249 470 374 

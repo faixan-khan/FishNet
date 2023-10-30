@@ -1,0 +1,5 @@
+Osphronemidae 251 1 636 231 
+Osphronemidae 88 127 350 275 
+Osphronemidae 81 266 302 375 
+Osphronemidae 181 382 422 480 
+Osphronemidae 9 102 75 237 

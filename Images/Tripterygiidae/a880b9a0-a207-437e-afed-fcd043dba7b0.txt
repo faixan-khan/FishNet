@@ -1,0 +1,6 @@
+Tripterygiidae 148 156 433 231 
+Tripterygiidae 313 256 473 379 
+Tripterygiidae 229 396 347 469 
+Tripterygiidae 0 367 107 478 
+Tripterygiidae 304 36 431 90 
+Tripterygiidae 129 36 206 132 

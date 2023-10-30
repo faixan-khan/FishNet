@@ -1,0 +1,4 @@
+Alestidae 100 65 395 168 
+Alestidae 0 61 146 129 
+Alestidae 16 105 324 228 
+Alestidae 20 160 251 220 

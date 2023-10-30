@@ -1,0 +1,5 @@
+Coryphaenidae 134 150 275 205 
+Coryphaenidae 347 114 512 162 
+Coryphaenidae 391 189 518 260 
+Coryphaenidae 219 189 381 236 
+Coryphaenidae 172 231 307 280 

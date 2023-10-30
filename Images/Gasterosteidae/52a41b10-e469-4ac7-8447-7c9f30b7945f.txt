@@ -1,0 +1,4 @@
+Gasterosteidae 13 69 158 161 
+Gasterosteidae 229 138 448 281 
+Gasterosteidae 75 176 301 277 
+Gasterosteidae 3 294 276 375 

@@ -1,0 +1,4 @@
+Spratelloididae 146 50 526 122 
+Spratelloididae 137 148 555 216 
+Spratelloididae 108 233 517 317 
+Spratelloididae 99 351 481 416 

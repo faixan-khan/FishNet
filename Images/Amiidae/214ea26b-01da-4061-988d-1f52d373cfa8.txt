@@ -1,0 +1,4 @@
+Amiidae 237 101 449 160 
+Amiidae 81 121 301 166 
+Amiidae 70 151 248 224 
+Amiidae 238 162 403 211 

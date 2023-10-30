@@ -1,0 +1,7 @@
+Lutjanidae 212 41 311 111 
+Lutjanidae 212 105 328 164 
+Lutjanidae 107 92 164 135 
+Lutjanidae 118 166 194 260 
+Lutjanidae 229 245 321 315 
+Lutjanidae 280 225 416 372 
+Lutjanidae 395 223 500 276 

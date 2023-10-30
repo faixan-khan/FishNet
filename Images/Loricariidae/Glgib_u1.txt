@@ -1,0 +1,3 @@
+Loricariidae 299 75 640 266 
+Loricariidae 0 121 142 199 
+Loricariidae 9 153 421 360 

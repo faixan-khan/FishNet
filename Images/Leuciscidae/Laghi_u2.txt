@@ -1,0 +1,6 @@
+Leuciscidae 390 1 517 77 
+Leuciscidae 444 32 532 185 
+Leuciscidae 233 57 386 201 
+Leuciscidae 205 0 295 79 
+Leuciscidae 14 18 223 258 
+Leuciscidae 16 192 154 456 

@@ -1,0 +1,4 @@
+Myliobatidae 83 191 402 375 
+Myliobatidae 152 18 269 123 
+Myliobatidae 339 0 490 104 
+Myliobatidae 5 0 75 83 

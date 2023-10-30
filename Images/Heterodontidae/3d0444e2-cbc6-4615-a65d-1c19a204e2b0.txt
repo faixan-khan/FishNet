@@ -1,0 +1,4 @@
+Heterodontidae 345 170 500 233 
+Heterodontidae 364 152 447 183 
+Heterodontidae 265 158 434 219 
+Heterodontidae 5 140 262 230 

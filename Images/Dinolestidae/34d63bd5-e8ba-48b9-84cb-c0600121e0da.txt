@@ -1,0 +1,8 @@
+Dinolestidae 302 147 407 181 
+Dinolestidae 85 99 161 126 
+Dinolestidae 154 93 226 126 
+Dinolestidae 217 171 306 193 
+Dinolestidae 211 215 334 240 
+Dinolestidae 260 197 354 217 
+Dinolestidae 142 217 222 295 
+Dinolestidae 396 245 423 289 

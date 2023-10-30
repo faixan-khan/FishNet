@@ -1,0 +1,9 @@
+Bryconidae 194 170 256 196 
+Bryconidae 174 76 254 107 
+Bryconidae 127 86 177 116 
+Bryconidae 144 185 193 221 
+Bryconidae 302 182 352 205 
+Bryconidae 332 141 418 168 
+Bryconidae 358 163 444 192 
+Bryconidae 331 39 401 68 
+Bryconidae 349 73 416 97 

@@ -1,0 +1,5 @@
+Scaridae 106 31 268 113 
+Scaridae 291 0 445 78 
+Scaridae 163 198 332 284 
+Scaridae 63 188 163 268 
+Scaridae 1 121 104 192 

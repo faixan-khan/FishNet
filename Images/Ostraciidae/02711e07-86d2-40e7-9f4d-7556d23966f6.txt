@@ -1,0 +1,9 @@
+Ostraciidae 4 2 500 321 
+Ostraciidae 135 53 192 103 
+Ostraciidae 166 152 394 277 
+Ostraciidae 60 123 119 165 
+Ostraciidae 8 8 76 87 
+Ostraciidae 263 29 331 95 
+Ostraciidae 340 97 376 151 
+Ostraciidae 178 124 237 151 
+Ostraciidae 439 138 500 194 

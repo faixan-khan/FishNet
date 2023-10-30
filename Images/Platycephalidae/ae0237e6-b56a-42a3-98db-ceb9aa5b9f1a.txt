@@ -1,0 +1,10 @@
+Platycephalidae 209 37 434 108 
+Platycephalidae 64 72 314 122 
+Platycephalidae 199 98 438 139 
+Platycephalidae 0 131 268 185 
+Platycephalidae 202 136 433 182 
+Platycephalidae 203 161 442 219 
+Platycephalidae 1 201 284 274 
+Platycephalidae 220 205 481 306 
+Platycephalidae 132 260 453 364 
+Platycephalidae 8 223 297 423 

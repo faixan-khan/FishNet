@@ -1,0 +1,6 @@
+Mullidae 133 79 208 157 
+Mullidae 84 130 179 204 
+Mullidae 367 82 433 167 
+Mullidae 240 149 330 212 
+Mullidae 168 197 223 285 
+Mullidae 217 189 264 267 

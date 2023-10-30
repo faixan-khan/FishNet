@@ -1,0 +1,5 @@
+Ariidae 200 283 279 331 
+Ariidae 272 184 349 246 
+Ariidae 180 137 294 188 
+Ariidae 285 122 339 187 
+Ariidae 330 131 445 184 

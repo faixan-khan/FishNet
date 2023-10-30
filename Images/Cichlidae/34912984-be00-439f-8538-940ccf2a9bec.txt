@@ -1,0 +1,8 @@
+Cichlidae 178 127 224 170 
+Cichlidae 261 142 325 176 
+Cichlidae 259 190 284 232 
+Cichlidae 215 230 296 270 
+Cichlidae 214 267 274 289 
+Cichlidae 241 296 304 319 
+Cichlidae 292 282 328 307 
+Cichlidae 257 313 307 333 

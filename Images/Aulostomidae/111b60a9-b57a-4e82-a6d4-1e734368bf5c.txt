@@ -1,0 +1,5 @@
+Aulostomidae 185 113 246 160 
+Aulostomidae 26 173 88 228 
+Aulostomidae 307 181 337 238 
+Aulostomidae 350 171 420 251 
+Aulostomidae 220 164 277 259 

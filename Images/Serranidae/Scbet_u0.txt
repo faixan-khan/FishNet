@@ -1,0 +1,6 @@
+Serranidae 150 38 370 144 
+Serranidae 2 104 174 188 
+Serranidae 19 230 165 291 
+Serranidae 120 316 308 378 
+Serranidae 0 345 103 397 
+Serranidae 0 409 81 478 

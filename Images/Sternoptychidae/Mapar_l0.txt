@@ -1,0 +1,4 @@
+Sternoptychidae 159 20 507 94 
+Sternoptychidae 140 113 565 206 
+Sternoptychidae 134 213 561 298 
+Sternoptychidae 119 311 627 444 

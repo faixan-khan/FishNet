@@ -1,0 +1,5 @@
+Enoplosidae 260 249 437 403 
+Enoplosidae 273 55 371 174 
+Enoplosidae 183 107 309 186 
+Enoplosidae 144 164 258 221 
+Enoplosidae 81 216 259 328 

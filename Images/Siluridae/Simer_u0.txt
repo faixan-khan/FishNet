@@ -1,0 +1,6 @@
+Siluridae 83 109 328 272 
+Siluridae 1 14 215 310 
+Siluridae 73 160 432 307 
+Siluridae 374 0 476 282 
+Siluridae 74 1 369 156 
+Siluridae 8 17 64 110 

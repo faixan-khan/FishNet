@@ -1,0 +1,5 @@
+Squatinidae 232 20 531 139 
+Squatinidae 40 89 362 195 
+Squatinidae 155 180 471 283 
+Squatinidae 303 257 620 362 
+Squatinidae 15 263 287 377 

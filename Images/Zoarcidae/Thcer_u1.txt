@@ -1,0 +1,5 @@
+Zoarcidae 160 45 533 175 
+Zoarcidae 314 177 617 290 
+Zoarcidae 259 231 463 284 
+Zoarcidae 27 130 311 231 
+Zoarcidae 39 197 313 351 

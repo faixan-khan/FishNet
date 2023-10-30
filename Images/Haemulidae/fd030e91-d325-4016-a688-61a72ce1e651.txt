@@ -1,0 +1,7 @@
+Haemulidae 151 113 322 203 
+Haemulidae 272 219 451 356 
+Haemulidae 0 162 147 237 
+Haemulidae 286 0 493 75 
+Haemulidae 328 127 500 232 
+Haemulidae 2 2 72 79 
+Haemulidae 20 233 278 340 

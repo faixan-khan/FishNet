@@ -1,0 +1,17 @@
+Hemiramphidae 374 48 603 102 
+Hemiramphidae 397 97 622 147 
+Hemiramphidae 383 151 640 234 
+Hemiramphidae 325 137 592 205 
+Hemiramphidae 491 261 640 301 
+Hemiramphidae 410 265 616 368 
+Hemiramphidae 132 174 434 282 
+Hemiramphidae 140 125 344 177 
+Hemiramphidae 26 6 335 97 
+Hemiramphidae 0 57 143 170 
+Hemiramphidae 5 200 168 270 
+Hemiramphidae 35 242 253 337 
+Hemiramphidae 162 262 386 318 
+Hemiramphidae 264 231 425 303 
+Hemiramphidae 156 309 558 396 
+Hemiramphidae 10 303 65 341 
+Hemiramphidae 1 342 106 396 

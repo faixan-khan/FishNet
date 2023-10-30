@@ -1,0 +1,5 @@
+Ginglymostomatidae 28 116 224 277 
+Ginglymostomatidae 55 5 269 146 
+Ginglymostomatidae 79 227 265 436 
+Ginglymostomatidae 252 50 358 191 
+Ginglymostomatidae 151 287 305 456 

@@ -1,0 +1,4 @@
+Acanthuridae 431 277 500 342 
+Acanthuridae 331 48 412 122 
+Acanthuridae 190 119 296 189 
+Acanthuridae 3 216 112 252 

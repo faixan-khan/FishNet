@@ -1,0 +1,5 @@
+Sphyrnidae 117 7 640 164 
+Sphyrnidae 4 180 533 322 
+Sphyrnidae 10 334 227 480 
+Sphyrnidae 202 333 402 480 
+Sphyrnidae 414 345 640 480 

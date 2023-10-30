@@ -1,0 +1,11 @@
+Kyphosidae 129 86 198 144 
+Kyphosidae 48 109 115 173 
+Kyphosidae 147 169 186 234 
+Kyphosidae 200 159 256 204 
+Kyphosidae 279 153 362 233 
+Kyphosidae 339 98 385 125 
+Kyphosidae 334 284 382 330 
+Kyphosidae 145 298 201 346 
+Kyphosidae 228 371 312 455 
+Kyphosidae 186 245 230 296 
+Kyphosidae 251 256 284 307 
