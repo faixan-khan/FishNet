@@ -6,12 +6,12 @@
 [![demo](fig/teaser-1.png)](https://fishnet-2023.github.io/)
 
 
-## Introduction
+## 1. Introduction
 
 We present FishNet, a comprehensive benchmark for large-scale aquatic species recognition, detection, and functional trait identification. Our benchmark dataset is based on an aquatic biological taxonomy, consisting of 8 taxonomic classes, 83 orders, 463 families, 3,826 genera, 17,357 species, and 94,532 images. The dataset also includes bounding box annotations for fish detection. Additionally, the dataset encompasses 22 traits, grouped into three categories: habitat, ecological rule, and nutritional value. These traits facilitate the identification of the ecological roles of aquatic species and their interactions with other species.
 
 
-## Dataset Download
+## 2. Dataset Download
 
 To download the required files, follow these steps:
 
@@ -26,10 +26,10 @@ To download the required files, follow these steps:
 3. **Detection Annotation Files:**
    Download [bbox.zip] file for detection annotations. 
 
-## Installation
+## 3. Installation
 ```conda env create -f env.yaml```
 
-## Fish Classification and Functional Traits Prediction
+## 4 Fish Classification and Functional Traits Prediction
 
 ```python main_v2.py --model mode_id --label_column Order```
 
@@ -60,7 +60,7 @@ For other parameters, please check ```main.py``` file.
 ### Results
 Please check paper for detailed results. All pretrained model weight can be found at [weights](https://drive.google.com/drive/folders/16ZsE4hchfvXulVguKmen0yHBePaey57j?usp=sharing).
 
-## Fish Detection
+## 5. Fish Detection
 We use [mmdetction](https://github.com/open-mmlab/mmdetection) library for fish detection. Please refer to the [tutorial](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
 
 ## Acknowledgement
