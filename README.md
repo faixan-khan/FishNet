@@ -57,13 +57,13 @@ MultiCls: Functional traits classification
 For other parameters, please check ```main.py``` file.
 
 
-### Results:
+### Results
 Please check paper for detailed results. All pretrained model weight can be found at [weights](https://drive.google.com/drive/folders/16ZsE4hchfvXulVguKmen0yHBePaey57j?usp=sharing).
 
-## 5. Fish Detection:
+## 5. Fish Detection
 We use [mmdetction](https://github.com/open-mmlab/mmdetection) library for fish detection. Please refer to the [tutorial](https://github.com/xy-guo/mmdetection_kitti/blob/dev/demo/MMDet_Tutorial.ipynb) for getting started.
 
-## Acknowledgement:
+## Acknowledgement
 + [timm](https://timm.fast.ai/). A popular deep-learning library.
 + [mmdetction](https://github.com/open-mmlab/mmdetection). MMDetection is an open source object detection toolbox based on PyTorch. It is a part of the OpenMMLab project.
 
